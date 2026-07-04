@@ -1,5 +1,7 @@
 # Clinical Laboratory Operations & Interoperability Troubleshooting Dashboard
 
+**Tech Stack:** Microsoft Excel (Advanced Power Query ETL, Power Pivot Data Modeling, DAX Measure Formulas)
+
 ## 🔍 Purpose & Dashboard Type
 This portfolio project showcases a robust **Data Analysis, Diagnostic, and Troubleshooting Dashboard** designed for clinical laboratory operations managers, interface engineers, and medical informatics teams. Unlike a static executive summary, this interactive tool is architected to perform root-cause analysis, diagnose hardware throughput constraints, and troubleshoot data sync exceptions across Electronic Health Record (EHR) pipelines.
 
